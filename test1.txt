@@ -1,5 +1,11 @@
 hello world
 wow
+
+log
+fdshjfh
+fhsajdl
+
+
 stop
 log
 echo
