@@ -1,6 +1,10 @@
 hello world
 hello there
 echo
+wow
+log
+ech
+echo
 echo
 echo
 echo
